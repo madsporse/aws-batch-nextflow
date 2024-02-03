@@ -1,0 +1,9 @@
+# Data Directories
+results/
+logs/
+.nextflow
+work/
+.nextflow.*
+_ignore/
+.local
+.cache
